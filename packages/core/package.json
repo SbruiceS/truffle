@@ -64,7 +64,7 @@
     "fs-extra": "^9.1.0",
     "ganache": "7.4.3",
     "get-port": "^5.1.1",
-    "get-random-values": "^1.2.2",
+    "get-random-values": "^4.1.0",
     "glob": "^7.1.6",
     "inquirer": "8.2.2",
     "js-interpreter": "2.2.0",
@@ -78,7 +78,7 @@
     "spawn-args": "0.2.0",
     "tmp": "^0.2.1",
     "universal-analytics": "^0.4.17",
-    "web3": "1.7.4",
+    "web3": "4.0.1",
     "web3-utils": "1.7.4",
     "xregexp": "^4.2.4",
     "yargs": "^13.3.0"
